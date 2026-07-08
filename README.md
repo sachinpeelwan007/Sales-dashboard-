@@ -1,4 +1,4 @@
-# Sales-dashboard-
+# Sales-dashboard
 Recommended Structure and Order 
 1. Project Title & Headline
 Project Title: Electronics & Hardware Sales Performance Dashboard (2020-22)
